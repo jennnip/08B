@@ -1,0 +1,116 @@
+ul {
+    list-style-type: none;
+   float: right;
+   margin-right: 80%;
+   margin-top:2%;
+}
+
+li {
+    display: inline;
+    padding:10px;
+    float:20%;
+
+}
+
+
+.logo {
+    padding: 10px;
+    margin:5%;
+    display: inline;
+}
+
+h1 {
+
+    text-align: center;
+}
+
+.banner {
+    width: 500px;
+    height:500px;
+    margin-left:15%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position:relative;
+
+}
+
+.text1 {
+    display:inline-block;
+    width: 40%;
+    margin-left: 10%;
+    margin-top: 0px;
+    
+}
+
+.text2{
+    display:inline-block;
+    width:40%;
+    margin-left: 60px;
+    margin-top: 0px;
+}
+
+.text3 {   
+    display: inline-block;
+    width:40%;
+    margin-top: 7%;
+    margin-left: 5%;
+
+}
+
+.text4 {
+    display: inline-block;
+    width:40%;
+    margin-top: 2%;
+    margin-left: 5%;
+}
+
+.aboutus {
+    float:right;
+    margin-top: 5%;
+    margin-right:15%;
+}
+
+.container {
+    text-align: center;
+    margin-top: 12%;
+    margin-left: 14%;
+    border-style: solid;
+    width:70%;
+}
+
+.map {
+    margin-left:5%;
+    margin-top: 3%;
+    display: inline-block;
+}
+
+.text5 {
+    width:35%;
+    float: right;
+    margin-right: 20%;
+    margin-top: 10%;
+}
+
+.person1 {
+    display:inline-block;
+    margin:4%;
+    margin-left: 7%;
+
+}
+
+.person2 {
+    display:inline-block;
+    margin:4%;
+    margin-left: 7%;
+}
+
+.footer {
+    width:80%;
+    margin-left:10%;
+    border-style:solid;
+    
+}
+
+.linkki {
+    float:right;
+}
